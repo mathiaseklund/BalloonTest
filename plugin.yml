@@ -1,0 +1,6 @@
+name: BalloonTest
+main: balloontest.Main
+version: 1.0
+author: mathiaseklund
+commands:
+  balloon:
